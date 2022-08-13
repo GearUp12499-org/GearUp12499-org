@@ -22,22 +22,8 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-
-  {% if member.number_educ == 1 %}
   <p> {{ member.education1 }} </p>
-  {% endif %}
 
-  {% if member.number_educ == 2 %}
-  <p> {{ member.education1 }} </p>
-  <p> {{ member.education2 }} </p>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <p> {{ member.education1 }} </p>
-  <p> {{ member.education2 }} </p>
-  <p> {{ member.education3 }} </p>
-  {% endif %}
-  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -66,18 +52,9 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
 
-  {% if member.number_educ == 1 %}
   <p> {{ member.education1 }} </p>
-  {% endif %}
 
-  {% if member.number_educ == 2 %}
-  <p> {{ member.education1 }} </p>
-  <p> {{ member.education2 }} </p>
-  {% endif %}
-
-  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

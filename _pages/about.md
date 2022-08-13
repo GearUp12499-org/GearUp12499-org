@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Research"
+title: "Gear Up - About Us"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Gear Up - About Us"
 sitemap: false
-permalink: /research/
+permalink: /about/
 ---
 
 # Research

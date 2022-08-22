@@ -42,5 +42,10 @@ We are part of the 'Strange Metal consortium NL' that includes the groups of Hus
 We have proposed that artificial super-periodicities can lead to improved superconductivity, both because of increased density of states and because of phase space arguments (see image from our SciPost publication below). Perhaps for different reasons, twisted bilayer graphene has been shown to superconduct! We are investigate this material with the groups of Efetov, Baumberger, and van der Molen.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+## Sponsors
+
+
+## Affiliated with Robotics Inspiring Science and Engineering (RISE)
+![]({{ site.url }}{{ site.baseurl }}/images/freight_frenzy/sponsors/image23.png){: style="width: 70%; float: center; margin: 0px"}
 
 ### ... and more.

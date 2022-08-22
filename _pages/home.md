@@ -22,7 +22,7 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/image6.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/image17.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/image17.jpg" alt="Slide 2" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

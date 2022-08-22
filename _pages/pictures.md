@@ -11,7 +11,7 @@ Jump to: [Freight Frenzy Renders](#renders), [Outreach Events](#ethz)
 ## Freight Frenzy Renders
 
 {% assign number_printed = 0 %}
-{% for pic in site.data.images.freight_frenzy.renders %}
+{% for pic in site.data.images.renders %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 

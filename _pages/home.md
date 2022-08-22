@@ -1,7 +1,7 @@
 ---
 title: "Gear Up - Home"
 layout: homelay
-excerpt: "Gear Up at Leiden University."
+excerpt: "Gear Up 12499"
 sitemap: false
 permalink: /
 ---

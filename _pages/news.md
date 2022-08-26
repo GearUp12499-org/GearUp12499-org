@@ -1,7 +1,7 @@
 ---
-title: "News"
+title: "Gear Up - News"
 layout: textlay
-excerpt: "Gear Up 12499 - News"
+excerpt: "Gear Up - News"
 sitemap: false
 permalink: /news.html
 ---

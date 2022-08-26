@@ -1,7 +1,7 @@
 ---
 title: "Gear Up - Team"
 layout: gridlay
-excerpt: "Gear Up: Team members"
+excerpt: "Gear Up - Team"
 sitemap: false
 permalink: /team/
 ---

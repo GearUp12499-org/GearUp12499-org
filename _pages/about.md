@@ -42,7 +42,7 @@ Because we are high school students, we have had to learn a multitude of differe
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/freight_frenzy/sponsors/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/freight_frenzy/sponsors/{{ pic.image }}" class="img-responsive" width="70%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

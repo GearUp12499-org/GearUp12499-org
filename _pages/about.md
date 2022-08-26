@@ -8,6 +8,8 @@ permalink: /about/
 
 # About Gear Up
 
+<br>
+
 **Gear Up is a FIRST Tech Challenge robotics team based in San Diego, California, with members from Westview High School.**
 
 The team had its humble origins in 2013 as a group of elementary school students interested in robotics. We started our journey with the FIRST Lego League in third grade, competing against other teams with robots built our of LEGOs. As we developed our technical skillset and learned how to work together, we progressed as a team to the FIRST Tech Challenge (FTC). In a larger competition with more advanced tasks, the robots are now built from a mix of off-the shelf and custom-made parts--- no longer the simple LEGO machines from before. 
@@ -26,8 +28,6 @@ Because we are high school students, we have had to learn a multitude of differe
 
 **Twitter:** [@gearup_12499](https://twitter.com/gearup_12499)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
-
 ### Sponsors
 
 {% assign number_printed = 0 %}
@@ -40,7 +40,7 @@ Because we are high school students, we have had to learn a multitude of differe
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/freight_frenzy/sponsors/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/freight_frenzy/sponsors/{{ pic.image }}" class="img-responsive" width="80%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

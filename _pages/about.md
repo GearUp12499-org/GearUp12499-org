@@ -20,7 +20,7 @@ Because we are high school students, we have had to learn a multitude of differe
 
 <br>
 
-### Social Media:
+### Social Media
 
 **Instagram:** [@gearup_12499](https://www.instagram.com/gearup_12499/)
 
@@ -29,6 +29,8 @@ Because we are high school students, we have had to learn a multitude of differe
 **Twitter:** [@gearup_12499](https://twitter.com/gearup_12499)
 
 ### Sponsors
+
+**Thank you to all of our sponsors for supporting our team!**
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.sponsors %}
@@ -40,7 +42,7 @@ Because we are high school students, we have had to learn a multitude of differe
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/freight_frenzy/sponsors/{{ pic.image }}" class="img-responsive" width="80%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/freight_frenzy/sponsors/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

@@ -15,7 +15,7 @@ permalink: /pictures/
 {% assign even_odd = number_printed | modulo: 4 %}
 
 {% if even_odd == 0 %}
-    <div class="row">
+<div class="row">
 {% endif %}
 
 <div class="col-sm-3 clearfix">

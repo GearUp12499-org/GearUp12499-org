@@ -8,7 +8,7 @@ permalink: /about/
 
 # About Gear Up
 
-Gear Up is a FIRST Tech Challenge robotics team based in San Diego, California, with members from Westview High School. 
+**Gear Up is a FIRST Tech Challenge robotics team based in San Diego, California, with members from Westview High School.**
 
 The team had its humble origins in 2013 as a group of elementary school students interested in robotics. We started our journey with the FIRST Lego League in third grade, competing against other teams with robots built our of LEGOs. As we developed our technical skillset and learned how to work together, we progressed as a team to the FIRST Tech Challenge (FTC). In a larger competition with more advanced tasks, the robots are now built from a mix of off-the shelf and custom-made parts--- no longer the simple LEGO machines from before. 
 
@@ -16,11 +16,15 @@ Over the course of the past five years, we have won numerous awards for both our
 
 Because we are high school students, we have had to learn a multitude of different skills to succeed in FTC. From using project management to keep track of tasks, goals, and deadlines, to utilizing computer-aided design (CAD) to create custom 3D-printed parts for our robot, to reading through countless pages of documentation to familizarixe ourselves with the Java programming langauge, we have always had to learn new skills and solve challenges as a team in order to succeed. We pride ourselves on working together as a team, listening to each member's ideas and making sure everyone has a voice in the team's decisions.
 
-Social Media:
+<br>
 
-Instagram: [@gearup_12499](https://www.instagram.com/gearup_12499/)
-YouTube Channel: [Gear Up](https://www.youtube.com/channel/UCO8Uq6jTFN_uF80hEzFgdQA)
-Twitter: [@gearup_12499](https://twitter.com/gearup_12499)
+### Social Media:
+
+**Instagram:** [@gearup_12499](https://www.instagram.com/gearup_12499/)
+
+**YouTube Channel:** [Gear Up](https://www.youtube.com/channel/UCO8Uq6jTFN_uF80hEzFgdQA)
+
+**Twitter:** [@gearup_12499](https://twitter.com/gearup_12499)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
@@ -32,7 +36,7 @@ Twitter: [@gearup_12499](https://twitter.com/gearup_12499)
 {% assign even_odd = number_printed | modulo: 4 %}
 
 {% if even_odd == 0 %}
-    <div class="row">
+<div class="row">
 {% endif %}
 
 <div class="col-sm-3 clearfix">

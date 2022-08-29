@@ -18,6 +18,37 @@ Over the course of the past five years, we have won numerous awards for both our
 
 Because we are high school students, we have had to learn a multitude of different skills to succeed in FTC. From using project management to keep track of tasks, goals, and deadlines, to utilizing computer-aided design (CAD) to create custom 3D-printed parts for our robot, to reading through countless pages of documentation to familizarixe ourselves with the Java programming langauge, we have always had to learn new skills and solve challenges as a team in order to succeed. We pride ourselves on working together as a team, listening to each member's ideas and making sure everyone has a voice in the team's decisions.
 
+### Awards
+
+#### Freight Frenzy (2021-2022)
+Descartes League Tournament
+- Inspire Award Second Place
+- Winning Alliance 1st Pick
+- Connect Award Finalist
+- Motivate Award Finalist
+- Control Award Finalist
+
+#### Ultimate Goal (2020-2022)
+Descartes League Qualifier
+- Top Ranked 3rd Place
+Descartes League Scrimmage
+- Top Ranked 2nd Place
+
+#### Skystone (2019-2020)
+Descartes League Tournament
+- Collins Aerospace Innovate Award Finalist
+- Design Award Winner
+- Semifinal Alliance
+
+#### Relic Recovery (2017-2018)
+League Tournament
+- Finalist Alliance
+- Inspire Award Third Place
+San Diego Regional Tournament
+- Qualified for World Championship
+World Championship
+- Placed 32nd out of 64 teams
+
 <br>
 
 ### Social Media

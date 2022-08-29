@@ -31,6 +31,7 @@ Descartes League Tournament
 #### Ultimate Goal (2020-2022)
 Descartes League Qualifier
 - Top Ranked 3rd Place
+
 Descartes League Scrimmage
 - Top Ranked 2nd Place
 
@@ -44,12 +45,12 @@ Descartes League Tournament
 League Tournament
 - Finalist Alliance
 - Inspire Award Third Place
+
 San Diego Regional Tournament
 - Qualified for World Championship
+
 World Championship
 - Placed 32nd out of 64 teams
-
-<br>
 
 ### Social Media
 
@@ -58,6 +59,8 @@ World Championship
 **YouTube Channel:** [Gear Up](https://www.youtube.com/channel/UCO8Uq6jTFN_uF80hEzFgdQA)
 
 **Twitter:** [@gearup_12499](https://twitter.com/gearup_12499)
+
+<br>
 
 ### Sponsors
 
@@ -96,5 +99,5 @@ World Championship
 </div>
 {% endif %}
 
-### Affiliated with Robotics Inspiring Science and Engineering (RISE)
+#### Affiliated with Robotics Inspiring Science and Engineering (RISE)
 ![]({{ site.url }}{{ site.baseurl }}/images/freight_frenzy/sponsors/image23.png){: style="width: 10%; float: center; margin: 0px"}

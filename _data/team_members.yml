@@ -46,9 +46,7 @@
 - name: Miles Lin
   info: Software
 #   photo: bio-photo.jpg
-  education1: |
-    My name is Miles Lin and I'm in 9th grade at Westview. I am also in the Westview Gold program, playing percussion.
-    On this team, I focus on the software and implementing new technologies into the robot.
+  education1: My name is Miles Lin and I'm in 9th grade at Westview. I am also in the Westview Gold program, playing percussion. On this team, I focus on the software and implementing new technologies into the robot.
 # oh boy hope this works
 
 - name: Liam Doran

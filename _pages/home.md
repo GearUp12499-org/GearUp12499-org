@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Gear Up is a FIRST Tech Challenge robotics team based in San Diego, California, with members from Westview High School. We channel our passions for science and technology to build a new robot each year to compete in local and regional tournaments. 
+Gear Up is a FIRST Tech Challenge robotics team based in San Diego, California. We channel our passions for science and technology to build a new robot each year to compete in local and regional tournaments. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->

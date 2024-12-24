@@ -1,54 +1,54 @@
-- name: JJ Siu
-  photo: jj.jpg
-  info: Captain | Software
-  education1: Hi, I am JJ Siu and I am 17 years old. Currently I am an 11th grader at Westview. I have been in FIRST programs for the last 8 years. I enjoy FTC because I really enjoy doing things involving STEM. Now that I am on Gear Up, I enjoy helping programming the robot and helping with adjusting the design of the robot. I am a driver and a programmer. Some things I like to do in my free time is to play tennis,  I like to help with Audio/Visual stuff for worship and serve at my church, CEC. My favorite aspect of FTC is to program the robot.
-
-- name: Justin Wu
-  photo: justin.jpg
-  info: Captain | Software
-  education1: Hi! My name is Justin Wu, and I'm a junior at Westview High School. This is my third year as a member of team 12499 Gear Up. Other than co-captaining the team with JJ, I mostly help out with the software aspect of our robot, from experimenting with new methods to fine-tuning programs before competitions. Outside of robotics, I enjoy studying competitive programming and playing cello. I've learned a lot through FTC in the past two years, and I am excited to continue to grow with the team in coming seasons.
-
-- name: Zubin Cheruvallath
-  photo: zubin.jpg
-  info: CAD/3D Printing | Driving
-  education1: Hi, my name is Zubin Cheruvallath. I am a 16 year old junior at Westview highschool and the Chief of Computer Aided Design and a driver for team 12499 Gear Up. I have participated in FIRST for eight years, starting with Jr. FLL and three years of FLL. This is my fourth year competing in FTC. I enjoy doing anything that includes technology and the way things work. I am a huge fan of Lego, gaming, and watching TV and movies. I also enjoy learning about cars and how to make them more powerful. 
-
-- name: Andrew Chu
-  photo: andrew.jpg
-  info: CAD/3D Printing | Software
-  education1: My name is Andrew Chu, and I am a 16 year old junior at Westview High School. My focuses within 12499 Gear Up are software and computer-aided design. This is my first year competing in FTC, and I am excited to participate. In my free time, I enjoy using Blender for 3D modeling and watching movies and TV shows. I look forward to learning more about robotics and coding as part of this team.
-
-- name: Sophie Duan
-  photo: sophie.jpg
-  info: CAD/3D Printing | Mechanical Design
-  education1: Hello, my name is Sophie Duan. I am currently sixteen and a junior at Westview High School. This is my first year as a member of 12499 Gear Up. However, I have previously been in the FIRST program a few times several years ago. I  joined FTC because I want to learn how to apply concepts into real life scenarios. Outside of robotics, I enjoy doing art, both digital and traditional, and dance. I look forward to learning and developing my skills as part of this team.
-
-- name: Maya Hsu
-  photo: maya.jpg
-  info: Project Management
-  education1: My name is Maya Hsu. This is my seventh year in the FIRST program and my fifth in FTC. I am currently a junior at Westview High School and I am seventeen. Along with being the project manager of the team, I contribute in designing and constructing the robot. I joined FIRST because I was interested in engineering a robot and seeing technology come to life. My brother, Tai, is also on the FTC team. Outside of FIRST, I participate in extracurricular activities such as Speech and Debate, tutoring, Japanese, and swim team. I enjoy working on the robot with my team and cooperating with my team.
-
-- name: Tai Hsu
-  photo: tai.jpg
-  info: CAD/3D Printing | Driving | Mechanical Design
-  education1: My name is Tai.  I started FIRST in third grade, doing one year of Jr. FLL, three years of FLL, and this year is my fourth year of FTC. I am a junior and seventeen years old. I attend Westview High School along with all of the other team members.  My specialty is building and driving. I also know how to play various instruments such as the alto and baritone saxophone, and the piano. I joined FIRST because I wanted to learn more about robotics.
-
-- name: Nathan Mun
-  photo: nathan.jpg
-  info: Finance
-  education1: Hi, I am Nathan Mun and I am a junior at Westview High School. I play the clarinet in the Westview Gold program, the Civic Youth Orchestra, and my church. I also enjoy playing and learning about chess in my free time. This is my first year in the FIRST program. I joined the FIRST program because I enjoy learning about technology and how it works. I am looking forward to building and developing robots with my friends on the team.
-
-- name: Richard Tseng
-  photo: richard.jpg
-  info: Outreach
-  education1: My name is Richard Tseng and I am seventeen years old. I am an 11th grader who attends Westview High School. On the team, I am a head outreach and scouting. Outside of FTC, I enjoy listening to music, drawing, playing volleyball, and playing the violin. The reason I joined FIRST was that I had an interest in robots and wanted to know how they worked. I am interested in the mechanisms that run robots.  I started in FLL, which I found very interesting, and moved up to FTC after a few years when I joined team Gear Up. I enjoy FIRST because it gives me the opportunity to work on robots with my friends.
+- name: Liam Doran
+  photo: liam.jpg
+  info: Captain | Hardware Lead
+  education1: yap yap yap
 
 - name: Miles Lin
-  info: Software
-#   photo: bio-photo.jpg
-  education1: My name is Miles Lin and I'm in 9th grade at Westview. I am also in the Westview Gold program, playing percussion. On this team, I focus on the software and implementing new technologies into the robot.
-# oh boy hope this works
+  photo: miles.jpg
+  info: Software Lead
+  education1: yap yap yap
 
-- name: Liam Doran
-  photo: bio-photo.jpg
-  education1:
+- name: Ruel Athyal
+  photo: ruel.jpg
+  info: Hardware
+  education1: yap yap yap
+
+- name: Ryan Chen
+  photo: ryan.jpg
+  info: Software
+  education1: yap yap yap
+
+- name: Maya Keyal
+  photo: maya.jpg
+  info: Hardware
+  education1: yap yap yap
+
+- name: Sadhika Kumar
+  photo: sadhika.jpg
+  info: Hardware
+  education1: yap yap yap
+
+- name: Maanit Mehta
+  photo: maanit.jpg
+  info: Hardware
+  education1: yap yap yap
+
+- name: Shuban Pal
+  photo: shuban.jpg
+  info: Software
+  education1: Devoted Go programmer. Connoseur of cheese.
+
+- name: Arabhi Panneerselvam
+  photo: arabhi.jpg
+  info: Software
+  education1: yap yap yap
+
+- name: Nishk Shah
+  photo: nishk.jpg
+  info: Software
+  education1: yap yap yap
+
+- name: Chloe Tran
+  photo: chloe.jpg
+  info: Software
+  education1: yap yap yap

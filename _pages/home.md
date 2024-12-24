@@ -20,13 +20,10 @@ Gear Up is a FIRST Tech Challenge robotics team based in San Diego, California, 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/image0.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/gearup2024.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/image6.png" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/image17.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/robot2024.png" alt="Slide 2" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

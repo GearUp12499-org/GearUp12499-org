@@ -17,6 +17,17 @@
   width: 10000px;
 }
 
+.social-icons {
+  display: flex;
+  gap: 15px;
+}
+
+.social-icons img {
+  width: 40px; 
+  height: auto;
+  cursor: pointer;
+}
+
 .media-object {
   display: block;
 

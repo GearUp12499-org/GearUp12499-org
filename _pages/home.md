@@ -42,8 +42,14 @@ Combining computer-aided mechanical design, 3D printing, and Java software progr
 
 ### Social Media
 
-**Instagram:** [@gearup_12499](https://www.instagram.com/gearup_12499/)
-
-**YouTube Channel:** [Gear Up](https://www.youtube.com/channel/UCO8Uq6jTFN_uF80hEzFgdQA)
-
-**Twitter:** [@gearup_12499](https://twitter.com/gearup_12499)
+<div class="social-icons">
+  <a href="https://www.instagram.com/gearup_12499/" target="_blank">
+    <img src="/images/logos/instaicon.png" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/channel/UCO8Uq6jTFN_uF80hEzFgdQA" target="_blank">
+    <img src="/images/logos/yticon.png" alt="YouTube">
+  </a>
+  <a href="https://www.linkedin.com/company/gearup12499/" target="_blank">
+    <img src="/images/logos/linkedin.png" alt="LinkedIn">
+  </a>
+</div>

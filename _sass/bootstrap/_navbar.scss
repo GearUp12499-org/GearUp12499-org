@@ -13,30 +13,39 @@
   min-height: $navbar-height;
   margin-bottom: $navbar-margin-bottom;
   border: 1px solid transparent;
-  border-radius: 25px; // Added rounded corners
-  background-color: rgba(255, 0, 0, 0.7); // Semi-transparent red
-  backdrop-filter: blur(8px); // Added blur effect
-  -webkit-backdrop-filter: blur(8px); // Safari support
+  background: rgba(255, 0, 0, 0.8) !important;
+  border-radius: 25px !important;
+  -webkit-backdrop-filter: blur(10px) !important;
+  backdrop-filter: blur(10px) !important;
 
-  // Prevent floats from breaking the navbar
   @include clearfix;
 
   @media (min-width: $grid-float-breakpoint) {
-    border-radius: 25px; // Maintain rounded corners at larger screens
+    border-radius: 25px !important;
   }
 }
 
+// Override default navbar
+.navbar-default {
+  background: rgba(255, 0, 0, 0.8) !important;
+  border-color: transparent !important;
+  
+  .navbar-brand,
+  .navbar-nav > li > a,
+  .navbar-text {
+    color: white !important;
+  }
+}
 
-// Navbar heading
-//
-// Groups `.navbar-brand` and `.navbar-toggle` into a single component for easy
-// styling of responsive aspects.
-
-.navbar-header {
-  @include clearfix;
-
-  @media (min-width: $grid-float-breakpoint) {
-    float: left;
+// Override inverse navbar
+.navbar-inverse {
+  background: rgba(255, 0, 0, 0.8) !important;
+  border-color: transparent !important;
+  
+  .navbar-brand,
+  .navbar-nav > li > a,
+  .navbar-text {
+    color: white !important;
   }
 }
 

@@ -13,7 +13,6 @@ Gear Up is a FIRST Tech Challenge robotics team based in San Diego, California. 
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
-
     </ol>
 
     <!-- Items -->
@@ -50,6 +49,6 @@ Combining computer-aided mechanical design, 3D printing, and Java software progr
     <img src="/images/logos/yticon.png" alt="YouTube">
   </a>
   <a href="https://www.linkedin.com/company/gearup12499/" target="_blank">
-    <img src="/images/logos/linkedin.png" alt="LinkedIn">
+    <img src="/images/logos/linkedinicon.png" alt="LinkedIn">
   </a>
 </div>

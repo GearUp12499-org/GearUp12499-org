@@ -9,15 +9,20 @@
 // other navbar variations.
 
 .navbar {
-  background-color: red;       // Make the navbar red
-  border-radius: 10px;         // Make the navbar rounded
-  opacity: 1;                  // Make the navbar fully opaque (1 is fully opaque, <1 for partial transparency)
-  border: 1px solid darkred;   // Add a border for better contrast (optional)
-}
+  position: relative;
+  min-height: $navbar-height; // Ensure a navbar always shows (e.g., without a .navbar-brand in collapsed mode)
+  margin-bottom: $navbar-margin-bottom;
+  border: 1px solid transparent;
 
-.navbar-fixed-top,
-.navbar-fixed-bottom {
-  border-radius: 10px;
+  // Prevent floats from breaking the navbar
+  @include clearfix;
+
+  @media (min-width: $grid-float-breakpoint) {
+    border-radius: $navbar-border-radius;
+  }
+
+  background-color: rgba(238, 8, 8, 0.8);
+  backdrop-filter: blur(5px);
 }
 
 

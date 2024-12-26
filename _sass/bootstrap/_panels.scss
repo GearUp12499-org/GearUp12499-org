@@ -269,3 +269,57 @@
 .panel-danger {
   @include panel-variant($panel-danger-border, $panel-danger-text, $panel-danger-heading-bg, $panel-danger-border);
 }
+
+$footer-bg: #f8f8f8;
+$footer-text: #333;
+$footer-padding: 1rem;
+$footer-border-top: 1px solid #ddd;
+
+// Footer styles
+#footer {
+  position: relative;
+  width: 100%;
+  margin-top: auto;
+  
+  .panel-footer {
+    background-color: $footer-bg;
+    border-top: $footer-border-top;
+    padding: $footer-padding;
+
+    .container-fluid {
+      max-width: 1200px;
+      margin: 0 auto;
+
+      .row {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .col {
+          p {
+            margin: 0;
+            color: $footer-text;
+            font-size: 0.9rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+// Make sure the page wrapper takes full height
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+// Main content wrapper (add this class to your main content container)
+.content-wrapper {
+  flex: 1 0 auto;
+  padding-bottom: 2rem;
+}

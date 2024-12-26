@@ -280,7 +280,8 @@ $footer-border-top: 1px solid #ddd;
   position: relative;
   width: 100%;
   margin-top: auto;
-  
+  padding: 2rem 0; // Increase padding for larger footer
+
   .panel-footer {
     background-color: $footer-bg;
     border-top: $footer-border-top;
@@ -322,4 +323,8 @@ body {
 .content-wrapper {
   flex: 1 0 auto;
   padding-bottom: 2rem;
+}
+
+#footer {
+  flex-shrink: 0;
 }

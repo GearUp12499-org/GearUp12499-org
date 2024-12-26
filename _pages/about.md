@@ -10,7 +10,7 @@ permalink: /about/
 
 <br>
 
-**Gear Up is a FIRST Tech Challenge robotics team based in San Diego, California, with members from Westview High School.**
+**Gear Up is a FIRST Tech Challenge robotics team based in San Diego, California.**
 
 The team had its humble origins in 2013 as a group of elementary school students interested in robotics. We started our journey with the FIRST Lego League in third grade, competing against other teams with robots built our of LEGOs. As we developed our technical skillset and learned how to work together, we progressed as a team to the FIRST Tech Challenge (FTC). In a larger competition with more advanced tasks, the robots are now built from a mix of off-the shelf and custom-made parts--- no longer the simple LEGO machines from before. 
 
@@ -19,6 +19,19 @@ Over the course of the past five years, we have won numerous awards for both our
 Because we are high school students, we have had to learn a multitude of different skills to succeed in FTC. From using project management to keep track of tasks, goals, and deadlines, to utilizing computer-aided design (CAD) to create custom 3D-printed parts for our robot, to reading through countless pages of documentation to familizarixe ourselves with the Java programming langauge, we have always had to learn new skills and solve challenges as a team in order to succeed. We pride ourselves on working together as a team, listening to each member's ideas and making sure everyone has a voice in the team's decisions.
 
 ### Awards
+
+#### Centerstage (2023-2024)
+Tao-Lovelace Combined League Tournament
+- Winning Alliance Team (2nd Pick)
+
+#### Powerplay (2022-2023)
+Euclid League Tournament
+- Connect Award Winner
+- Control Award 2nd Place
+- Finalist Alliance Captain
+
+San Diego Regional Championship
+- Connect Award 3rd Place
 
 #### Freight Frenzy (2021-2022)
 Descartes League Tournament

@@ -39,7 +39,6 @@ Combining computer-aided mechanical design, 3D printing, and Java software progr
 
 <br>
 
-
 ### Social Media
 
 <div class="social-icons">

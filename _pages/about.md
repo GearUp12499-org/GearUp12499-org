@@ -21,20 +21,20 @@ Because we are high school students, we have had to learn a multitude of differe
 ### Awards
 
 #### Centerstage (2023-2024)
-Tao-Lovelace Combined League Tournament
+🏅 Tao-Lovelace Combined League Tournament
 - Winning Alliance Team (2nd Pick)
 
 #### Powerplay (2022-2023)
-Euclid League Tournament
+🏅 Euclid League Tournament
 - Connect Award Winner
 - Control Award 2nd Place
 - Finalist Alliance Captain
 
-San Diego Regional Championship
+🏆 San Diego Regional Championship
 - Connect Award 3rd Place
 
 #### Freight Frenzy (2021-2022)
-Descartes League Tournament
+🏅 Descartes League Tournament
 - Inspire Award Second Place
 - Winning Alliance 1st Pick
 - Connect Award Finalist
@@ -42,27 +42,27 @@ Descartes League Tournament
 - Control Award Finalist
 
 #### Ultimate Goal (2020-2022)
-Descartes League Qualifier
+🏅 Descartes League Qualifier
 - Top Ranked 3rd Place
 
-Descartes League Scrimmage
+🏅 Descartes League Scrimmage
 - Top Ranked 2nd Place
 
 #### Skystone (2019-2020)
-Descartes League Tournament
+🏅 Descartes League Tournament
 - Collins Aerospace Innovate Award Finalist
 - Design Award Winner
 - Semifinal Alliance
 
 #### Relic Recovery (2017-2018)
-League Tournament
+🏅 League Tournament
 - Finalist Alliance
 - Inspire Award Third Place
 
-San Diego Regional Tournament
+🏆 San Diego Regional Tournament
 - Qualified for World Championship
 
-World Championship
+🌎 World Championship
 - Placed 32nd out of 64 teams
 
 ### Social Media

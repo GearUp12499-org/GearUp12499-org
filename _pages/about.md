@@ -89,7 +89,7 @@ Because we are high school students, we have had to learn a multitude of differe
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/freight_frenzy/sponsors/{{ pic.image }}" class="img-responsive" width="70%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/into_the_deep/sponsors/{{ pic.image }}" class="img-responsive" width="70%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -113,4 +113,4 @@ Because we are high school students, we have had to learn a multitude of differe
 {% endif %}
 
 #### Affiliated with Robotics Inspiring Science and Engineering (RISE)
-![]({{ site.url }}{{ site.baseurl }}/images/freight_frenzy/sponsors/image23.png){: style="width: 10%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/into_the_deep/sponsors/rise.png){: style="width: 10%; float: center; margin: 0px"}

@@ -99,18 +99,5 @@ Because we are high school students, we have had to learn a multitude of differe
 {% endif %}
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
 #### Affiliated with Robotics Inspiring Science and Engineering (RISE)
 ![]({{ site.url }}{{ site.baseurl }}/images/into_the_deep/sponsors/image23.png){: style="width: 10%; float: center; margin: 0px"}
